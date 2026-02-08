@@ -4,7 +4,7 @@
 SQL reporting system to monitor daily transaction activity, reliability and performance
 
 ## Data
-- Generated transaction dataset with 50,000+ rows
+- Simulated transaction dataset with 50,000+ rows
 - Fields include date, amount, status, region, merchant category, and processing time
 
 ## Tools
@@ -24,4 +24,5 @@ For operations and risk teams to:
 - Monitor spikes
 - Track system reliability
 - Identify performance bottlenecks
+
 - Support operational decisioning
